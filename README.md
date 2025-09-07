@@ -57,8 +57,8 @@ This repository contains a Google Colab notebook that performs **pairwise alignm
 ## 📁 Files Included
 
 - `pairwise_alignment_rbp4.ipynb` – Main notebook
-- `images/` – Folder for heatmap outputs (optional)
-- `requirements.txt` – Python dependencies (optional)
+- `images/` – Folder for heatmap outputs
+- `requirements.txt` – Python dependencies
 - `data/` - Folder for FASTA files
 
 ---
